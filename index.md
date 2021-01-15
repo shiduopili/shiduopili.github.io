@@ -1,3 +1,3 @@
-#welcome to shiduopili's page!
+Welcome to shiduopili's page!
 
 [About me](about.md)
